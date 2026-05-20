@@ -1,0 +1,28 @@
+name,category,price,calories,protein,carbs,fat,health_benefits,is_vegetarian,health_score
+Grilled Chicken Salad,Salads,12.99,320,35,12,8,"High protein, Low carb, Rich in vitamins",No,9
+Caesar Salad,Salads,10.99,280,12,18,14,"Rich in fiber, Good source of calcium",Yes,7
+Quinoa Buddha Bowl,Bowls,13.99,420,18,55,12,"Complete protein, High fiber, Antioxidants",Yes,9
+Chicken Burrito Bowl,Bowls,14.99,580,38,62,14,"High protein, Complex carbs, Balanced macros",No,8
+Veggie Wrap,Wraps,11.99,380,14,52,10,"High fiber, Plant-based, Rich in vitamins",Yes,8
+Grilled Chicken Wrap,Wraps,13.49,450,34,45,11,"Lean protein, Balanced meal",No,8
+Beef Burger,Burgers,12.99,680,35,48,32,"High protein, Iron-rich",No,5
+Veggie Burger,Burgers,11.99,520,18,56,20,"Plant-based protein, High fiber",Yes,7
+Turkey Club Sandwich,Sandwiches,12.49,520,38,42,16,"Lean protein, Good for weight management",No,7
+Grilled Veggie Panini,Sandwiches,10.99,410,16,55,12,"High fiber, Rich in antioxidants",Yes,8
+Margherita Pizza (Slice),Pizza,4.99,280,12,35,10,"Calcium-rich, Lycopene from tomatoes",Yes,6
+Chicken BBQ Pizza (Slice),Pizza,5.99,320,18,34,12,"High protein, Balanced macros",No,6
+Pasta Primavera,Pasta,13.49,520,16,78,12,"Complex carbs, Rich in vitamins",Yes,7
+Chicken Alfredo,Pasta,14.99,680,36,72,24,"High protein, Calcium-rich",No,6
+Lentil Soup,Soups,8.99,220,14,34,3,"High fiber, Plant protein, Iron-rich",Yes,9
+Chicken Noodle Soup,Soups,9.49,240,18,28,6,"Immune-boosting, Lean protein",No,8
+Fruit Smoothie Bowl,Breakfast,11.99,340,8,68,5,"Antioxidants, Natural sugars, Vitamins",Yes,8
+Avocado Toast,Breakfast,10.99,380,12,38,20,"Healthy fats, High fiber, Potassium",Yes,9
+Protein Pancakes,Breakfast,12.49,420,28,48,10,"High protein, Complex carbs",Yes,8
+Egg White Omelette,Breakfast,11.49,280,28,8,12,"Very high protein, Low calorie",No,9
+Sparkling Water,Drinks,2.49,0,0,0,0,"Hydrating, Zero calorie",Yes,10
+Fresh Orange Juice,Drinks,4.49,110,2,26,0,"Vitamin C rich, Natural energy",Yes,8
+Green Detox Juice,Drinks,5.99,95,3,22,0,"Detoxifying, Rich in chlorophyll",Yes,10
+Mango Lassi,Drinks,4.99,180,6,34,4,"Probiotic, Calcium-rich, Vitamin A",Yes,7
+Chocolate Lava Cake,Desserts,7.99,420,6,58,18,"Iron-rich, Mood-boosting antioxidants",Yes,4
+Fresh Fruit Sorbet,Desserts,5.99,160,1,40,0,"Low fat, Natural sugars, Antioxidants",Yes,7
+Greek Yogurt Parfait,Desserts,6.49,220,14,32,4,"High protein, Probiotic, Calcium",Yes,8
