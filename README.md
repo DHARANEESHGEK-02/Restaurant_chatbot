@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # 🍽️ Bistro AI — AI-Powered Restaurant Chatbot
 
 > A smart, full-featured restaurant assistant built with **Streamlit**, **LangChain**, **Mistral AI**, and **FAISS** — featuring conversational ordering, real-time nutrition analysis, RAG-powered responses, and SQLite order history.
@@ -204,3 +205,6 @@ MIT License — feel free to use, modify, and deploy for personal or commercial 
 - [Streamlit](https://streamlit.io) for the rapid UI framework
 - [FAISS](https://faiss.ai) by Meta for vector similarity search
 - [HuggingFace](https://huggingface.co) for the sentence transformer embeddings
+=======
+# Restaurant_chatbot
+>>>>>>> 5a92393cca887c84e7205e929a10585af275780b
